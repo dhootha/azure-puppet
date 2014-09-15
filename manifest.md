@@ -19,7 +19,6 @@ $ winrm set winrm/config/service/auth @{Basic="true"}
 <p><li>azure (>= 0.6.4)</li>
 <li>net-ssh (>= 2.1.4)</li>
 <li>net-scp (>= 1.0.4)</li>
-<li>titlt</li>
 </p>
 
 <h2>Microsoft Azure</h2>
